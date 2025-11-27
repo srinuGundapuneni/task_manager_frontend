@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 Employee Task Tracker
 
 A beautiful, modern, and fully responsive Employee Task Management application built with React, Tailwind CSS, and Framer Motion. This application allows you to view employees, manage their tasks, filter by status, and track project progress with an interactive dashboard.
@@ -45,3 +46,6 @@ A beautiful, modern, and fully responsive Employee Task Management application b
 ### Setup Steps
 
 1. **Clone or download this project**
+=======
+# task_manager_frontend
+>>>>>>> 401fe4f5fda9dff71c4446ceb3e59098c9167d9d
