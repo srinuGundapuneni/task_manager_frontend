@@ -1,0 +1,57 @@
+{
+    "employees": [
+      {
+        "id": "1",
+        "name": "Alice Johnson",
+        "role": "Frontend Developer",
+        "avatar": "AJ",
+        "tasks": [
+          { "id": "101", "title": "Build login page", "status": "Completed", "description": "Create responsive login with validation" },
+          { "id": "102", "title": "Implement dashboard", "status": "In Progress", "description": "Design and develop analytics dashboard" },
+          { "id": "103", "title": "Setup routing", "status": "Completed", "description": "Configure React Router for SPA" }
+        ]
+      },
+      {
+        "id": "2",
+        "name": "Bob Smith",
+        "role": "Backend Developer",
+        "avatar": "BS",
+        "tasks": [
+          { "id": "201", "title": "API integration", "status": "Pending", "description": "Connect frontend with REST APIs" },
+          { "id": "202", "title": "Database schema design", "status": "In Progress", "description": "Design MongoDB collections" }
+        ]
+      },
+      {
+        "id": "3",
+        "name": "Charlie Davis",
+        "role": "UI/UX Designer",
+        "avatar": "CD",
+        "tasks": [
+          { "id": "301", "title": "Design system creation", "status": "Completed", "description": "Build comprehensive design tokens" },
+          { "id": "302", "title": "Wireframe mobile app", "status": "In Progress", "description": "Create high-fidelity mockups" },
+          { "id": "303", "title": "User research", "status": "Pending", "description": "Conduct usability testing sessions" }
+        ]
+      },
+      {
+        "id": "4",
+        "name": "Diana Prince",
+        "role": "Project Manager",
+        "avatar": "DP",
+        "tasks": [
+          { "id": "401", "title": "Sprint planning", "status": "Completed", "description": "Organize Q4 development sprints" },
+          { "id": "402", "title": "Stakeholder meeting", "status": "Pending", "description": "Present project roadmap to clients" }
+        ]
+      },
+      {
+        "id": "5",
+        "name": "Ethan Hunt",
+        "role": "DevOps Engineer",
+        "avatar": "EH",
+        "tasks": [
+          { "id": "501", "title": "CI/CD pipeline setup", "status": "In Progress", "description": "Configure GitHub Actions workflows" },
+          { "id": "502", "title": "Server monitoring", "status": "Completed", "description": "Implement logging and alerts" }
+        ]
+      }
+    ]
+  }
+  
